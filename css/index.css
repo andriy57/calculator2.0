@@ -42,7 +42,7 @@ html .container .keyboard,body .container .keyboard {
 }
 
 html .container .keyboard .keyboard-row,body .container .keyboard .keyboard-row {
-    height: 75px
+    height: 80px
 }
 
 html .container .keyboard .keyboard-row .keyboard-key,body .container .keyboard .keyboard-row .keyboard-key {
