@@ -30,7 +30,7 @@ html .container .view,body .container .view {
     line-height: 20px;
     text-align: right;
     padding: 10px;
-    background-color: #fff;
+
     font-size: 18px;
     font-weight: 600
 }
@@ -40,20 +40,14 @@ html .container .keyboard,body .container .keyboard {
     width: 100%;
     text-align: center
 }
-
 html .container .keyboard .keyboard-row,body .container .keyboard .keyboard-row {
     height: 80px
 }
 
 html .container .keyboard .keyboard-row .keyboard-key,body .container .keyboard .keyboard-row .keyboard-key {
     width: 30px;
-    background-color: #333;
-    color: #fff;
     font-weight: 600;
     font-size: 20px;
     cursor: pointer
 }
 
-html .container .keyboard .keyboard-row .keyboard-key.soft,body .container .keyboard .keyboard-row .keyboard-key.soft {
-    background-color: FF8C00
-}
